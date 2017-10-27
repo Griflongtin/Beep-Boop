@@ -24,7 +24,7 @@ This website, when given a number by the user will display (1 through userInput)
 * Then go to your Desktop and find the new file called Track-Suggester, Open it.
 * Then just open the index.html file.
 
-* Or just click this link: https://griflongtin.github.io/Beep-Boop/index.html
+* Or just click this link: https://griflongtin.github.io/Beep-Boop
 
 
 ## Known Bugs
